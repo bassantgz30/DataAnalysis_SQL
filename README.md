@@ -1,2 +1,2 @@
-# DataCleaning_SQL
-Data Cleaning practice projects using MYSQL.
+# DataAnalysis_SQL
+Data Cleaning and Data Analysis practice projects using MYSQL.
